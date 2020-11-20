@@ -21,7 +21,6 @@ function App() {
       <span>更新完毕</span>
       <div>他好</div>
       <div>大家好</div>
-      <p>不好</p>
     </div>
   );
 }

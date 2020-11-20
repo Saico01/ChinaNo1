@@ -19,7 +19,7 @@ function App() {
         </a>
       </header>
       <div>赵珂哼！</div>
-      <div>贾会珍牛逼</div>
+      <div>蓝鸥宿友</div>
     </div>
   );
 }

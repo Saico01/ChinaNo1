@@ -9,8 +9,8 @@ ReactDOM.render(
     <App />
   </React.StrictMode>,
   document.getElementById('root'),
-  console.log(Math.floor(Math.random()*10))
-    console.log("hkhjhkj")
+  console.log(Math.floor(Math.random()*10));console.log("1111")
+ console.log("hkhjhkj")
 );
 
 // If you want to start measuring performance in your app, pass a function

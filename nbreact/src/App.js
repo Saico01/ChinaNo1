@@ -18,7 +18,7 @@ function App() {
           Learn React
         </a>
       </header>
-      <div>你好！</div>
+      <div>你好</div>
       <div>他好</div>
       <div>大家好</div>
     </div>

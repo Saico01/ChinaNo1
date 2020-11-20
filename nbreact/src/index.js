@@ -9,7 +9,7 @@ ReactDOM.render(
     <App />
   </React.StrictMode>,
   document.getElementById('root'),
-  console.log(Math.floor(Math.random()*10));console.log("1111")
+  console.log(Math.floor(Math.random()*10)),console.log("1111")
  console.log("hkhjhkj")
 );
 

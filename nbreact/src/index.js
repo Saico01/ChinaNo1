@@ -9,13 +9,10 @@ ReactDOM.render(
     <App />
   </React.StrictMode>,
   document.getElementById('root'),
-<<<<<<< HEAD
   console.log(Math.floor(Math.random() * 10)),
   console.log(21312432)
-=======
   console.log(Math.floor(Math.random()*10)),
  console.log("hkhjhkj")
->>>>>>> dbdebe5bcfdf5942b2329f8b1b4a07e75553dc8a
 );
 
 // If you want to start measuring performance in your app, pass a function

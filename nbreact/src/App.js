@@ -18,8 +18,9 @@ function App() {
           Learn React
         </a>
       </header>
-      <div>赵珂哼！</div>
-      <div>蓝鸥宿友</div>
+      <div>你好！</div>
+      <div>他好</div>
+      <div>大家好</div>
     </div>
   );
 }
